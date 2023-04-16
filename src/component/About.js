@@ -1,7 +1,7 @@
 import React from "react";
 import image1 from "./img/about1.jpg"
 import image2 from "./img/quote.jpg"
-const Navbar = () => {
+const About = () => {
     return(
         <section classname = "about-page" id="about">
              <div className = "about">
@@ -40,4 +40,4 @@ const Navbar = () => {
         </section>
     )
 }
-export default Navbar;
+export default About;
